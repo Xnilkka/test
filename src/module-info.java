@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author renat
- *
- */
-module Trabalho {
-}
